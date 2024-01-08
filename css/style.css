@@ -276,6 +276,7 @@ margin-top: 0px;
 /* ----------------------Hodidays Sale Section---------------- */
 .holidays-sale-container{
     padding: 50px 50px 70px;
+    
 }
 .offfer-description{
     margin-top: 0px;
@@ -304,4 +305,46 @@ margin-top: 0px;
     padding: 0px 250px;
     margin-top: 20px;
 
+}
+
+.surprizing-img-container{
+    width: 1130px;
+    height: 550px;
+    margin: 0 auto;
+    
+    align-items: center;
+    border-radius: 20px;
+    background-image: url('./imges/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: scroll;
+    position: relative;
+    
+}
+.srprize-box{
+    display: inline-block;
+}
+.srprize-box img{
+    width: 600px;
+    height: 500px;
+    display: inline-block;
+}
+.surprizing-discount{
+    display: inline-block;
+}
+.surprizing-discount{
+    display: inline-block;
+    position: absolute;
+    z-index: 2;
+    
+}
+.surprizing-girl img{
+        width: 300px;
+        height: 321px;
+}
+.surprizing-girl{
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    z-index: 1;
 }
