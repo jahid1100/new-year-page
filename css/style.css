@@ -484,6 +484,10 @@ font-size: 24px;
 font-weight: 400;
 
 }
+.phone-number{
+    padding: 10px;
+    align-items: center;
+}
 .contact-website{
     color: #FFF;
 font-size: 24px;
