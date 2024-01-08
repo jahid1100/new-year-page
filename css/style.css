@@ -11,6 +11,17 @@ header{
 }
 /* shared css */
 
+/* .btn-primary{
+    color: #FFF;
+    background-color: #602407;
+    padding: 15px 32px;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 30px;
+} */
+
 /*------------------- header section style-------------------- */
 
 .banner{
@@ -145,3 +156,34 @@ padding: 0px 0px 0px 120px;
     
 
 }
+
+/*------------------- Appoinment section style----------------------- */
+
+.appoinment-container{
+    margin: 0px 50px 70px;
+    background-color: #ffebeb;
+    border-radius: 16px;
+}
+.appoinment-time{
+    padding: 100px 385px 0px;
+    text-align: center;
+    margin-bottom: 28px;
+}
+.appoinment-btn{
+    padding: 0px 400px 120px;
+    text-align: center;
+}
+.appoinment-container .appoinment-time .red{
+    color: #C70039;
+}
+.appoinment-container .appoinment-btn .btn-join-now{
+    background-color: #C70039;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
