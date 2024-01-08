@@ -82,6 +82,10 @@ main{
 
 /* wellcome section style */
 
+.wellcome{
+    padding: 0px 50px 70px;
+}
+
 .welcome-container{
     
     background-image: url('./imges/Vectorrr.png');
@@ -91,7 +95,7 @@ main{
 }
 
 .welcome-title{
-    /* color: #FFF; */
+    color: #FFF;
     font-size: 64px;
     font-weight: 700;
     padding: 120px 545px 0px 120px;
@@ -100,7 +104,7 @@ main{
 
 }
 .welcome-description{
-    /* color: rgba(255, 255, 255, 0.80); */
+    color: #ffffffcc;
 
 font-size: 18px;
 font-weight: 400;
@@ -111,4 +115,16 @@ padding: 0px 400px 0px 120px;
 }
 .join-now{
     padding: 0px 0px 135px 135px;
+    
+
+}
+.wellcome .join-now .btn{
+    color: #FFF;
+    background-color: #602407;
+    padding: 15px 32px;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 30px;
 }
