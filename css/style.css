@@ -16,6 +16,7 @@ section{
     width: 300px;
     height: 400px;
 }
+
 /* shared css */
 /* .btn-primary{
     color: #FFF;
@@ -351,7 +352,7 @@ margin-top: 0px;
 
 /* -----------------------Best Gift Section------------------------- */
 .best-gift-container{
-    margin: 130px 0px 28px 50px
+    margin: 130px 0px 28px 50px;
 }
 .best-gift-title{
     color: #C70039;
@@ -374,4 +375,21 @@ font-size: 20px;
 font-weight: 400;
 padding: 0px 500px 10px 0px;
 }
-/* ----------------------Best gift img section------------------------------- */
+/* ---------------Best gift img section------------------------ */
+.img-galary-container{
+   margin: 0px 50px 70px;
+}
+.row1 .img-variable img{
+    width: 400px;
+    height: 400px;
+}
+
+.row2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.gap{
+    margin-top: 25px;
+}
