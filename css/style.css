@@ -275,7 +275,7 @@ margin-top: 0px;
 
 /* ----------------------Hodidays Sale Section---------------- */
 .holidays-sale-container{
-    padding: 50px 50px 70px;
+    margin: 50px 50px 70px;
     
 }
 .offfer-description{
@@ -348,3 +348,30 @@ margin-top: 0px;
     right: 0;
     z-index: 1;
 }
+
+/* -----------------------Best Gift Section------------------------- */
+.best-gift-container{
+    margin: 130px 0px 28px 50px
+}
+.best-gift-title{
+    color: #C70039;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 16px;
+
+}
+.best-gift-description{
+    color: #070211;
+font-size: 28px;
+font-weight: 700;
+text-transform: capitalize;
+margin-top: 0px;
+margin-bottom: 15px;
+}
+.best-gift-meta-description{
+    color: #07021199;
+font-size: 20px;
+font-weight: 400;
+padding: 0px 500px 10px 0px;
+}
+/* ----------------------Best gift img section------------------------------- */
