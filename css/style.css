@@ -14,7 +14,7 @@ header{
 /* header section style */
 
 .banner{
-    background: red;
+    /* background: red; */
     background-image: url('./imges/Banner\ Image.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -78,4 +78,37 @@ main{
 }
 .offer-container , img{
     text-align: center;
+}
+
+/* wellcome section style */
+
+.welcome-container{
+    
+    background-image: url('./imges/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+}
+
+.welcome-title{
+    /* color: #FFF; */
+    font-size: 64px;
+    font-weight: 700;
+    padding: 120px 545px 0px 120px;
+    margin-bottom: 18px;
+
+
+}
+.welcome-description{
+    /* color: rgba(255, 255, 255, 0.80); */
+
+font-size: 18px;
+font-weight: 400;
+margin-top: 0px;
+margin-bottom: 35px;
+padding: 0px 400px 0px 120px;
+
+}
+.join-now{
+    padding: 0px 0px 135px 135px;
 }
